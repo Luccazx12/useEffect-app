@@ -5,6 +5,7 @@ O useEffect não se “encaixa” a um método de ciclo de vida do componente, e
 
 O useEffect são functions que o React “executará” para renderizar seu componente. Podemos definir facilmente quando queremos que esta função seja executada novamente. Basta passar como segundo parâmetro ao useEffect() um Array com as variáveis que controlarão esse Hook.
 
-Hospedado em:
+
+## Hospedado em:
 
 [Netlify](https://useeffect-app.netlify.app/)
