@@ -1,4 +1,4 @@
-# Hookstate useEffect
+# Hookstate - **useEffect**
 O useEffect é um Hook que serve para lidar com os efeitos.
 
 O useEffect não se “encaixa” a um método de ciclo de vida do componente, ele será executado quando seu componente renderizar e se quisermos mudar esse comportamento
